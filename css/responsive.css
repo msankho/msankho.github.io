@@ -1,0 +1,13 @@
+@media screen and (min-width: 480px) {
+ 
+   #gallery li {
+     width: 30%;
+     margin: 1.5%;
+     clear: right;
+  }
+}
+
+@media screen and (min-width: 660px) {
+ 
+}
+
